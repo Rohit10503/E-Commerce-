@@ -1,0 +1,8 @@
+.custom-nav-link{
+    color:white;
+    font-size: 16px;
+    font-weight:bold;
+}
+.navbar-Nav .custom-nav-link .active{
+    color:#FF2C91;
+}
